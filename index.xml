@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porão 93</title>
+    <link>https://wepiphany.netlify.app/</link>
+    <description>Recent content on Marmota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>willianalbarello@gmail.com (Marmota)</managingEditor>
+    <webMaster>willianalbarello@gmail.com (Marmota)</webMaster>
+    <lastBuildDate>Sat, 20 Feb 2021 21:36:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://wepiphany.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sejam bem-vind(x)s</title>
+      <link>https://wepiphany.netlify.app/post/welcome/</link>
+      <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
+      <author>willianalbarello@gmail.com (Marmota)</author>
+      <guid>https://wepiphany.netlify.app/post/welcome/</guid>
+      <description>PORÃO 93.'.</description>
+    </item>
+    
+    <item>
+      <title>CheatSheets e outras coisas</title>
+      <link>https://wepiphany.netlify.app/post/sheet/</link>
+      <pubDate>Sat, 20 Feb 2021 21:36:10 -0300</pubDate>
+      <author>lobocode@gmail.com (Marmota)</author>
+      <guid>https://wepiphany.netlify.app/post/sheet/</guid>
+      <description>PORÃO 93.'.</description>
+    </item>
+    
+    <item>
+      <title>Desafios</title>
+      <link>https://wepiphany.netlify.app/page/desafios/</link>
+      <pubDate>Mon, 04 May 2020 22:06:52 -0300</pubDate>
+      <author>willianalbarello@gmail.com (Marmota)</author>
+      <guid>https://wepiphany.netlify.app/page/desafios/</guid>
+      <description>Roadmap - comece por aqui  Antes de começar um desafio em uma determinada linguagem de programação, é necessário antes aprender o bêábá dela. Isto é, como a linguagem funciona, sua syntax, sua semântica e toda a estrutura inicial necessária antes de iniciar qualquer projeto. Pensando nisso, recomendamos que você assista aos vídeos da Ellen Körbes - Go Aprenda a Programar disponível gratuitamente. Este curso é baseado no curso do Todd Mcleod,chamado Learn How To Code: Google&#39;s Go (golang) Programming Language disponível na plataforma Udemy.</description>
+    </item>
+    
+    <item>
+      <title>Tutoriais</title>
+      <link>https://wepiphany.netlify.app/page/tutoriais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>willianalbarello@gmail.com (Marmota)</author>
+      <guid>https://wepiphany.netlify.app/page/tutoriais/</guid>
+      <description>Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
