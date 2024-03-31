@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Porão 93.'.</title>
+    <link>https://wepiphany.netlify.app/post/</link>
+    <description>Recent content in Posts on Porão 93.'.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lobocode@gmail.com (Porão 93.'.)</managingEditor>
+    <webMaster>lobocode@gmail.com (Porão 93.'.)</webMaster>
+    <lastBuildDate>Sat, 20 Feb 2021 21:36:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://wepiphany.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sejam bem-vind(x)s</title>
+      <link>https://wepiphany.netlify.app/post/welcome/</link>
+      <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
+      <author>willianalbarello@gmail.com (Willian Albarello)</author>
+      <guid>https://wepiphany.netlify.app/post/welcome/</guid>
+      <description>Sejam bem-vind(x)s ao grupo de estudos Porão 93.'.!</description>
+    </item>
+    
+    <item>
+      <title>CheatSheets e outras coisas</title>
+      <link>https://wepiphany.netlify.app/post/sheet/</link>
+      <pubDate>Sat, 20 Feb 2021 21:36:10 -0300</pubDate>
+      <author>willianalbarello@gmail.com (Porão 93.'.)</author>
+      <guid>https://wepiphany.netlify.app/post/sheet/</guid>
+      <description>O Porão 93.'.</description>
+    </item>
+    
+  </channel>
+</rss>
